@@ -4,9 +4,10 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="LWC_Practice" />
-          <option name="connectionType" value="MDAPI" />
+          <option name="connectionName" value="lwc_specialist" />
+          <option name="connectionType" value="OAUTH" />
           <option name="defaultModuleName" value="LWC_Practice" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/lwc_specialist/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>
