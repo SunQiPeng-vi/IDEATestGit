@@ -6,6 +6,6 @@
 private class AccountTriggerTestTwo {
     @IsTest
     static void testBehavior() {
-        String str2 = 'commit - 1727';
+        String str2 = 'commit - 1727---1729';
     }
 }
