@@ -6,6 +6,6 @@
 private class AccountTriggerTestTwo {
     @IsTest
     static void testBehavior() {
-        String str2 = 'The first commit by feat-0107——合并后再次提交';
+        String str2 = 'commit - 1727';
     }
 }
