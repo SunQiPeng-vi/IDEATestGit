@@ -5,8 +5,8 @@
     <option name="apexLogLevel" value="DEBUG" />
     <option name="calloutsLogLevel" value="INFO" />
     <option name="changedOnly" value="false" />
-    <option name="connectionName" value="LWC_Practice" />
-    <option name="connectionType" value="MDAPI" />
+    <option name="connectionName" value="lwc_specialist" />
+    <option name="connectionType" value="OAUTH" />
     <option name="contextConfiguration" value="false" />
     <option name="databaseLogLevel" value="INFO" />
     <option name="dependencyUniqueFullName" />
@@ -35,8 +35,8 @@
     <option name="apexLogLevel" value="DEBUG" />
     <option name="calloutsLogLevel" value="INFO" />
     <option name="changedOnly" value="false" />
-    <option name="connectionName" value="LWC_Practice" />
-    <option name="connectionType" value="MDAPI" />
+    <option name="connectionName" value="lwc_specialist" />
+    <option name="connectionType" value="OAUTH" />
     <option name="contextConfiguration" value="false" />
     <option name="databaseLogLevel" value="INFO" />
     <option name="dependencyUniqueFullName" />
