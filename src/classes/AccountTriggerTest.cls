@@ -16,7 +16,7 @@ private class AccountTriggerTest {
         e = 5;
         e=6;
         delete a;
-        String str = 'Local dev First commit dev any';
+        String str = 'Local dev First commit dev any__1648';
         String st2= 'dev-feat-0107-first';
     }
 }
